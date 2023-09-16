@@ -21,5 +21,6 @@ public class Main {
         // Cerrar archivos
         in.close();
         out.close();
+        System.out.println("Hola VsCode Android");
     }
 }
